@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/clone_twiiter_vue/'
-    : '/',
+  publicPath:'/clone_twiiter_vue/'
+    
 };
