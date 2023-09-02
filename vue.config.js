@@ -1,4 +1,3 @@
 module.exports = {
-  publicPath:'/clone_twiiter_vue/'
-    
+  publicPath:'/clone_twitter_2/'
 };
